@@ -1,7 +1,7 @@
 <a href="https://www.instagram.com/shireenesque/">
   <img align="left" alt="Shireen's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.com/channels/867758927935963167">
+<a href="https://discord.com/users/867758927935963167">
   <img align="left" alt="Shireen's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shireen-jain-64a618218/">
