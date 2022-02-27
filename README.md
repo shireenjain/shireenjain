@@ -20,6 +20,7 @@
 - 👋 Hi, I’m Shireen Jain
 - 🎓 CSE Undergrad at Vellore Institute of Technology, Bhopal 
 - 🌱 Currently exploring Machine Learning, Cloud Computing and Open Source
+- 🖊  Hobbies include writing and reading
 - 📫 Reach me on my [email](mailto:jainshireen@gmail.com)
 
 <!---
