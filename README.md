@@ -24,7 +24,7 @@
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi, I’m Shireen Jain
 - 🎓 CSE Undergrad at Vellore Institute of Technology, Bhopal 
-- 🌱 Currently exploring Machine Learning, Cloud Computing and Open Source
+- 🌱 Currently exploring Cloud Computing, Machine Learning and Open Source
 - 🖊  Hobbies include writing and reading
 - 📫 Reach me on my [email](mailto:jainshireen@gmail.com)
 ---
