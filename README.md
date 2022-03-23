@@ -17,7 +17,7 @@
   <img align="left" alt="Shireen's Medium" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" />
 </a>
 <a href="https://open.spotify.com/user/e597p0xzlgxmgnpmlmyykt24j">
-  <img align="left" alt="Shireen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Shireen's Spotify" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" />
 </a>
 <br>
 <br>
