@@ -28,7 +28,10 @@
 - 🖊  Hobbies include writing and reading
 - 📫 Reach me on my [email](mailto:jainshireen@gmail.com)
 ---
+<div align="center">
 
+![Visitor Count](https://profile-counter.glitch.me/shireenjain/count.svg)
+</div>
 <!---
 shireenjain/shireenjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
