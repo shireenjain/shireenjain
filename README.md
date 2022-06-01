@@ -22,7 +22,7 @@
 <br>
 <br>
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"> Hi, I’m Shireen Jain
+- 👋 Hi, I’m Shireen Jain
 - 🎓 CSE Undergrad at Vellore Institute of Technology, Bhopal 
 - 🌱 Currently exploring Cloud Computing, Machine Learning, UI UX Designing and Open Source
 - 🖊  Hobbies include writing and reading
