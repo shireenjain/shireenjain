@@ -5,13 +5,13 @@
 # Welcome To My GitHub Profile!
 
 <a href="https://www.instagram.com/shireenesque/">
-  <img align="left" alt="Shireen's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Shireen's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
 <a href="https://discord.com/users/867758927935963167">
-  <img align="left" alt="Shireen's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Shireen's Discord" width="22px" src="https://cdn.svgporn.com/logos/discord-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shireen-jain-64a618218/">
-  <img align="left" alt="Shireen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shireen's LinkedIN" width="22px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />
 </a>
 <a href="https://medium.com/@jainshireen">
   <img align="left" alt="Shireen's Medium" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" />
